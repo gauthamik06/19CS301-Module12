@@ -14,7 +14,11 @@ To write a Python program to insert 3 elements into a queue and display each ele
 
 ## Program
 
-```python
+```
+#Name:Gowtham I K
+#Reg no:212222090008
+
+python
 queue = []
 
 # Enqueue elements into the queue
@@ -32,5 +36,7 @@ for i in range(len(queue)):
 
 ## OUTPUT
 
+![12BS](https://github.com/user-attachments/assets/fd6c0536-18fe-4d86-9e22-84b5391d016c)
 
 ## RESULT
+The given program is executed successfully.
