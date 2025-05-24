@@ -44,12 +44,13 @@ print("Popped element:", popped_element)
 print("Stack after pop:")
 print(stack)
 ```
-## Output
+## OUTPUT
+![12a](https://github.com/user-attachments/assets/7f630a37-5ec8-43f8-887a-7505ddd7e014)
 
-![12b](https://github.com/user-attachments/assets/8c425df0-d37c-4ca8-a696-84316f04cddb)
+## RESULT
+The given program is executed successfully.
 
-## Result
-The given program is successfully executed.
+
 
 
 
