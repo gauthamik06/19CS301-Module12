@@ -15,7 +15,11 @@ To write a Python program to insert 3 elements into a stack and display the inde
 
 ## Program
 
-```python
+```
+#Name:Gowtham I K
+#Reg no:212222090008
+
+python
 stack = []
 
 # Push elements into the stack
@@ -33,6 +37,8 @@ for i in range(len(stack)):
 
 ## Output
 
+![12b](https://github.com/user-attachments/assets/8c425df0-d37c-4ca8-a696-84316f04cddb)
 
 ## Result
+The given program is successfully executed.
 
