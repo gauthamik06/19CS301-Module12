@@ -17,7 +17,11 @@ To write a Python program to type and display the elements pushed into a stack u
 
 ## PROGRAM
 
-```python
+```
+#Name:Gowtham I K
+#Reg no:212222090008
+
+python
 stack = []
 
 # Push elements into the stack
